@@ -1,0 +1,9 @@
+{
+  "name": "credit-calculator",
+  "version": "1.0.0",
+  "description": "Credit pricing calculator for the AI video editor, with automated tests.",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
